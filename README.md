@@ -1,3 +1,3 @@
 # queer-aesthetic
 
-https://troytaylorw.github.io/font-tester
+https://troytaylorw.github.io/queer-aesthetic
